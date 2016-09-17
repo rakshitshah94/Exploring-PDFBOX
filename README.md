@@ -8,7 +8,7 @@ Prerequisites :<br>
 3.Create new project in java and add jar by Right click -> Properties -> build path -> add jars -> add PDFBOX jar<br>
 
 # Upcoming Examples :
-1.Extracting phone numbers from pdf : see File Name : extractPhoneNumber.java<br>
-2.Splitting PDFs : see File Name : PDFSplitters.java<br>
-3.File Size Counter for pdf or other documents : see File Name : FileSizeCounter.java<br>
-4.Fetch MetaData of pdf : see File Name : GetMetadata.java <br>
+1.Extracting phone numbers from pdf : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/exatractPhoneNumber.java"> extractPhoneNumber.java</a><br>
+2.Splitting PDFs : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/PDFSplitters.java"> PDFSplitters.java</a> <br>
+3.File Size Counter for pdf or other documents : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/FileSizeCounter.java">FileSizeCounter.java</a> <br>
+4.Fetch MetaData of pdf : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/GetMetadata.java"> GetMetadata.java </a> <br>
