@@ -13,3 +13,4 @@ Prerequisites :<br>
 3.File Size Counter for pdf or other documents : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/FileSizeCounter.java">FileSizeCounter.java</a> <br>
 4.Fetch MetaData of pdf : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/GetMetadata.java"> GetMetadata.java </a> <br>
 5.Create PDF file with Images : see File Name : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/CreatePDFWithImage.java">CreatePDFWithImage.java</a><br>
+6.PDF is Rotated or Not ? PDF pages are Landscape or Portrait ? How to extract images from PDF ? What is Fontstyle used in document ? see File : <a href="https://github.com/rakshitshah94/Exploring-PDFBOX/blob/master/RotatedPDFChecker.java">RotatedPDFChecker.java</a><br>
