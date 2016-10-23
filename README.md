@@ -1,6 +1,10 @@
 # Exploring-PDFBOX
 The Apache PDFBox® library is an open source Java tool for working with PDF documents. This project allows creation of new PDF documents, manipulation of existing documents and the ability to extract content from documents. Apache PDFBox also includes several command line utilities. Apache PDFBox is published under the Apache License v2.0.
 
+<p align="center"> 
+  <img src="https://3.bp.blogspot.com/-Bdvb52DOyao/WA0K-0lRmjI/AAAAAAAAI84/nMjSngGRyB8d3mOkBwYH74eGyIBO9oBWwCLcB/s1600/PDFBOX_LOGO_FOR_RAXTON.gif"/>
+</p>
+
 # How to Use with IDE :
 Prerequisites :<br>
 1.Download Eclipse or Netbeans IDE<br>
